@@ -23,3 +23,20 @@
     font-weight: normal;
     font-style: normal;
 }
+
+#blocPage
+{
+	margin-right: 230px;
+	margin-left: 190px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	width: 1200px;
+	height: 1200px;
+	background-color: #E6D2B1;
+}
+#Presentation
+{
+	padding: 15px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}

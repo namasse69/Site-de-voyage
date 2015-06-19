@@ -26,14 +26,14 @@
 
 #blocPage
 {
-	padding : 30px;
-	margin: auto;
-	margin-top: 10px;
-	width: 80%;
-	height: 100%;
+	margin-right: 230px;
+	margin-left: 190px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	width: 1200px;
+	height: 1200px;
 	background-color: #E6D2B1;
 }
-
 #Presentation
 {
 	padding: 15px;

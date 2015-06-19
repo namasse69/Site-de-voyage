@@ -2,10 +2,9 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="Css/Accueil.css" />
-		<link rel="stylesheet" href="Css/Default.css" />
-		<link rel="stylesheet" href="Css/Header.css" />
-		<link rel="stylesheet" href="Css/Footer.css" />
+        <link rel="stylesheet" href="css/Accueil.css" />
+		<link rel="stylesheet" href="css/Header.css" />
+		<link rel="stylesheet" href="css/Footer.css" /> 
     </head>
 
     <body>
@@ -13,10 +12,8 @@
 		
 				<section>
 					<div id="blocPage" >
-					
-
 						<div id="Presentation" >
-						<p>  Bonjour, </br>
+						<p>  Bonjour, </br> 
 								Ce site a été réalisé pour notre association VOYAGER FACILE afin de permettre aux passionnés de voyage de pouvoir être conseillés au mieux. </br>
 								Nous souhaitons avant tous regroupé le plus d’informations à propos des destinations, du matériel nécessaire et de nombreux conseils pour vous aider à préparer au mieux votre voyage. </br>
 								De plus il y a un espace média afin de visionner plusieurs documentaires aussi bien photos que vidéos sur plusieurs destinations pour vous donner un avant-goût des destinations conseillé. </br>
